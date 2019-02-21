@@ -1,0 +1,9 @@
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\bin\Debug\netstandard2.0\Basket.Core.deps.json
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\bin\Debug\netstandard2.0\Basket.Core.dll
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.csprojAssemblyReference.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.AssemblyInfoInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.AssemblyInfo.cs
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\bin\Debug\netstandard2.0\Basket.Core.pdb
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.dll
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Core\obj\Debug\netstandard2.0\Basket.Core.pdb

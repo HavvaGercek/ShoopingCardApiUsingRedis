@@ -1,0 +1,17 @@
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Core.dll
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.csprojAssemblyReference.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.csproj.CoreCompileInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.RazorAssemblyInfo.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.RazorAssemblyInfo.cs
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.AssemblyInfoInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.AssemblyInfo.cs
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Api.deps.json
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Api.runtimeconfig.json
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Api.runtimeconfig.dev.json
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Api.dll
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Api.pdb
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\bin\Debug\netcoreapp2.1\Basket.Core.pdb
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.csproj.CopyComplete
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.dll
+C:\Users\Anahtar Teknoloji\Documents\Basket\Basket.Api\obj\Debug\netcoreapp2.1\Basket.Api.pdb
