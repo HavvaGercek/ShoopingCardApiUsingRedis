@@ -1,9 +1,9 @@
-Sepete Ürün Ekleme API
+Sepete ÃœrÃ¼n Ekleme API
 
-Uygulamayý baþlatmdan önce Redis ayarlarýnýn yapýlmasý gerekmektedir.
+UygulamayÄ± baÅŸlatmdan Ã¶nce Redis ayarlarÄ±nÄ±n yapÄ±lmalÄ±dÄ±r.
 
 
-Startup/ConfigureServices içerisinde options.Configuration kýsmý güncelenmeli ve redis server çalýþýr halde olmalýdýr.
+Startup/ConfigureServices iÃ§erisinde options.Configuration kÄ±smÄ± aÅŸaÄŸÄ±daki ÅŸekilde gÃ¼ncelenmeli ve redis server Ã§alÄ±ÅŸÄ±r halde olmalÄ±.
 
 services.AddDistributedRedisCache(options =>
   {
@@ -11,5 +11,3 @@ services.AddDistributedRedisCache(options =>
       options.Configuration = "localhost: 6379"; //Your Redis connection port
   });
 
-
-Apý Kullanýmý için:  http://localhost:15350/swagger/index.html 
