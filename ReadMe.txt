@@ -1,9 +1,8 @@
-Sepete Ürün Ekleme API
+Adding Product to Shopping Card API
 
-Uygulamayı başlatmdan önce Redis ayarları yapılmalıdır.
+Before starting app, must do settings for Redis.
 
-
-Startup/ConfigureServices içerisinde options.Configuration kısmı aşağıdaki şekilde güncelenmeli ve redis server çalışır halde olmalı.
+part of options.Configuration in Startup/ConfigureServices must update like below and redis server must be started.
 
 services.AddDistributedRedisCache(options =>
   {
@@ -11,4 +10,4 @@ services.AddDistributedRedisCache(options =>
       options.Configuration = "localhost: 6379"; //Your Redis connection port
   });
 
-Api Kullanımı için:  http://localhost:15350/swagger/index.html 
+For API Usage:  http://localhost:15350/swagger/index.html 
